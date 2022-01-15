@@ -1,0 +1,21 @@
+{
+    "hospitals":[
+        {
+            "id":0,
+            "name":"global hospital",
+            "location":"anna nagar",
+            "city":"madurai",
+            "state":"tamilnadu",
+            "web":"globalhospital.com"
+
+        },
+        {
+            "id":1,
+            "name":"city hospital",
+            "location":"kk nagar",
+            "city":"madurai",
+            "state":"tamilnadu",
+            "web":"cityhospital.com"
+        }
+    ]
+}
